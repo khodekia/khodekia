@@ -4,7 +4,7 @@ My experiences have prepared me for any challenges that come my way, and I am co
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bash,git,python.django,flask,matlab,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bash,git,python,django,flask,matlab,rust)](https://skillicons.dev)
 
 
 <p align="left">
