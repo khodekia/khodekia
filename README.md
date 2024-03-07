@@ -1,6 +1,6 @@
 # About Me:
 
-### a semi-skilled cybersecurity enthusiast & Digital Craftsman
+### a semi-skilled Cybersecurity enthusiast & Digital Craftsman
 Currently, I am dedicating my time to mastering Rust, a powerful and rapidly growing programming language. 
 My experiences have prepared me for any challenges that come my way, and I am confident in my ability to excel in any task or project I undertake.
 
