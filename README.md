@@ -1,8 +1,6 @@
 # About Me:
 
 ### a semi-skilled Cybersecurity enthusiast & Digital Craftsman
-Currently, I am dedicating my time to mastering Rust, a powerful and rapidly growing programming language. 
-My experiences have prepared me for any challenges that come my way, and I am confident in my ability to excel in any task or project I undertake.
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
